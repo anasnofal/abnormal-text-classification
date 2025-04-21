@@ -35,3 +35,9 @@ It supports both **English** and **Arabic** texts and was developed as part of m
 | **ML Models**     | scikit-learn, Keras              |
 | **Arabic NLP**    | AraBERT via HuggingFace & `ktrain` |
 | **Deployment**    | FastAPI server                   |
+
+
+
+This project was developed as part of my internship at Baaz, where I worked on building scalable, multilingual content moderation tools.
+
+
