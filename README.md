@@ -38,6 +38,5 @@ It supports both **English** and **Arabic** texts and was developed as part of m
 
 
 
-This project was developed as part of my internship at Baaz, where I worked on building scalable, multilingual content moderation tools.
 
 
